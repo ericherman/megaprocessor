@@ -1,0 +1,8 @@
+Special Purpose Registers
+
+This is where the processor registers Stack Pointer (SP), Program
+Counter (PC) and Helper (H) registers are. In addition the registers
+driving the external address bus and write data are here. Most of the
+functionality is just multiplexing but there is also an adder provided
+to allow the H register count out the number of iterations required for
+iterative instructions.

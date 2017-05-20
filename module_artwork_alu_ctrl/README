@@ -1,0 +1,7 @@
+ALU Control
+
+This module generates the control signals for the ALU module. To do this
+it uses information from the decoder modules together with current
+state, the current status and the H register (for SHIFT and BIT) to work
+out what needs to be done this cycle. It also generates the sequence of
+values required for the SQRT algorithm.

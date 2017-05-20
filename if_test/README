@@ -1,0 +1,7 @@
+Test Board
+
+To test the larger scale structures I need a huge amount of I/O out of
+the PC so I built an I/O expander. These can be daisy chained (I hope,
+not tried it yet) to give me what I need to test the largest modules.
+Made a stupid stupid mistake on the pinout for the very simplest chip.
+Hence the carbuncle.

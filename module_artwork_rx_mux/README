@@ -1,0 +1,6 @@
+Rx Mux
+
+This multiplexes R0:R3 to generate three buses (RA, RB and RI) that act
+as sources for operations. It also multiplexes several buses to generate
+the Wn bus that may be used as one of the results that can be written
+into the R0:R3 registers.

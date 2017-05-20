@@ -1,0 +1,6 @@
+Shifter
+
+The shifting is just by wiring from one connector to the other with an
+offset. Depending on which side you call the input and which the output
+its a left or right shifter. It also generates some status data (is zero
+etc).

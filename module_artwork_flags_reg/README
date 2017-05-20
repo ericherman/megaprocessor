@@ -1,0 +1,7 @@
+Status Register
+
+The status register is a collection of bits that record various aspects
+of the results of previous calculations. Whilst PS is internally a 16
+bit register only 8 bit are visible to the user, the other hidden 8 bits
+are used during complex operations such as multiplication etc. and do
+not convey any information from one instruction to the next.

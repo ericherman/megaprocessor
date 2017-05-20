@@ -1,0 +1,3 @@
+Opcode Decode
+
+This decodes the opcode to work out what the instruction is.

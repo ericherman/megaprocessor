@@ -1,0 +1,7 @@
+Decode A
+
+This bundles together signals from the Opcode Decode module for routing
+to other modules. In particular the State and Special Purpose Control
+modules. As well as routing it also generates some signals required by
+both those modules to begin the task of working out what needs to be
+done this cycle.

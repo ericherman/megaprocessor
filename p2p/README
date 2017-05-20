@@ -1,0 +1,5 @@
+frame to frame
+
+This combines four data buses together to make a 64 way bus for joining
+frames together (a small number of wide cables is easier to deal with
+than lots of small ones).

@@ -1,0 +1,5 @@
+frame to frame (protected)
+
+Does the same as above but I added some protection circuitry for when
+its used for incoming buses. I don't know if its necessary, or if I did
+it correctly.

@@ -1,0 +1,4 @@
+State Machine
+
+The state machine controls the operation of the processor; directing the
+execution of each instruction.

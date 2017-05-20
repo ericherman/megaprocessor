@@ -1,0 +1,11 @@
+Fetch & Instruction
+
+The current instruction is stored here. In addition if the next
+instruction has been fetched before it is needed (which usually occurs
+during load/store instructions) it is stored here in its own register
+(F) till needed. During exception processing the TRAP instruction is
+generated here and inserted directly into the instruction register.
+
+Also the read data arrives here and is passed onwards in two forms, zero
+extended, and combined with a previously read byte held in H to form a
+16 bit value.

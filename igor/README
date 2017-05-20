@@ -1,0 +1,10 @@
+IGOR
+
+This consists of an FPGA development board from Lattice piggybacking on
+a board that provides 3 to 5V level translation to allow it to talk to
+the Megaprocessor. I was originally only going to build one of these but
+I ended up splitting out its functions (control, memory, peripherals) to
+try and make it easier to see what was happening rather than just having
+one board doing magic.
+He's described in more detail here.
+http://www.megaprocessor.com/igor.html

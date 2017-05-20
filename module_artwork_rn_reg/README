@@ -1,0 +1,8 @@
+Rn Registers
+
+This is where the General Purpose Registers (R0, R1, R2, R3) live. They
+can be written to from various places.
+
+Usually at most one register is written to in a cycle. However during
+MUL and DIV upto all 4 may be written to in a cycle. In this mode each
+register has its own shifter to generate its required new value.

@@ -1,0 +1,3 @@
+Word Byte Converter
+
+This splits a 16 bus into an LSB and MSB, or vice versa. Its purely wiring.

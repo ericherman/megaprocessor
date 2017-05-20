@@ -1,0 +1,5 @@
+frame to frame memory connection
+
+This combines the address and data bus into a single cable for
+transferring between frames. It includes protection circuitry for
+inputs.

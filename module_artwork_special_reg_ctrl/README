@@ -1,0 +1,6 @@
+Special Registers Control
+
+This module generates the control signals for the Special Purpose
+Registers module. To do this it uses information from the decoder
+modules together with current state (and also the count in H for
+iterative instructions) to work out what needs to be done this cycle.

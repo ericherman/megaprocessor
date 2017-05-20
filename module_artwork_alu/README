@@ -1,0 +1,12 @@
+ALU
+
+This is where the arithmetic and logical operations are carried out. It
+splits into two parts ALU1 and ADDER2. Each have two inputs, X and Y.
+
+ADDER2 is much the simpler consisting only of a 16 bit adder/subtractor.
+
+ALU1 has several computational units, a 16 bit adder/subtractor, 16 bit
+logic, left and right shifters, logic for the BIT operations. The result
+from only one of these is output. Flags reporting various aspects of the
+results (zero, negative, overflow)  are sent to the Status Flags
+Calculation module.

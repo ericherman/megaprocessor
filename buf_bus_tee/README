@@ -1,0 +1,3 @@
+Data bus Tee (buffered)
+
+I use this when I want to tee a bus to send it to a different frame.
